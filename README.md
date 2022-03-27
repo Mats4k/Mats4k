@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mats</h1>
 <h3 align="center">CEO and Founder of the MTN Media Group and developer in the MTN Media Dev Team</h3>
 
-- 🔭 I’m currently working on [many Projects for the MTN Dev Team](https://mtnmedia.dev/)
+- 🔭 I’m currently working on many Projects for the [MTN Media Dev Team](https://mtnmedia.dev/)
 
-- 🌱 I’m currently studying **IT at FH-Aachen - University of applied sciences**
+- 🌱 I’m currently studying **IT at [FH-Aachen - University of applied sciences](https://fh-aachen.de)**
 
 - 📫 How to reach me **info@mtn-media.de**
 
