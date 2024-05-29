@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **IT at [FH-Aachen - University of applied sciences](https://fh-aachen.de)**
 
-- 📫 You can reach me at **info@mtn-media.de**
+- 📫 You can reach me at **info@mtnmedia.group**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
