@@ -31,26 +31,30 @@ What I usually care about:
 
 ## Engineering Stack
 
-<p align="left">
-  <a href="https://go.dev/"><img alt="Go" title="Go" width="42" height="42" src="https://skillicons.dev/icons?i=go" /></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" width="42" height="42" src="https://skillicons.dev/icons?i=ts" /></a>
-  <a href="https://vuejs.org/"><img alt="Vue" title="Vue" width="42" height="42" src="https://skillicons.dev/icons?i=vue" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" width="42" height="42" src="https://skillicons.dev/icons?i=bash" /></a>
-  <a href="https://www.kernel.org/"><img alt="Linux" title="Linux" width="42" height="42" src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://archlinux.org/"><img alt="Arch Linux" title="Arch Linux" width="42" height="42" src="https://skillicons.dev/icons?i=arch" /></a>
-  <a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" width="42" height="42" src="https://skillicons.dev/icons?i=ubuntu" /></a>
-  <a href="https://www.docker.com/"><img alt="Docker" title="Docker" width="42" height="42" src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://www.cloudflare.com/"><img alt="Cloudflare" title="Cloudflare" width="42" height="42" src="https://skillicons.dev/icons?i=cloudflare" /></a>
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" width="42" height="42" src="https://skillicons.dev/icons?i=postgres" /></a>
-  <a href="https://redis.io/"><img alt="Redis" title="Redis" width="42" height="42" src="https://skillicons.dev/icons?i=redis" /></a>
-  <a href="https://www.sqlite.org/"><img alt="SQLite" title="SQLite" width="42" height="42" src="https://skillicons.dev/icons?i=sqlite" /></a>
-  <a href="https://git-scm.com/"><img alt="Git" title="Git" width="42" height="42" src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" width="42" height="42" src="https://skillicons.dev/icons?i=githubactions" /></a>
-  <a href="https://sentry.io/"><img alt="Sentry" title="Sentry" width="42" height="42" src="https://skillicons.dev/icons?i=sentry" /></a>
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" title="Visual Studio Code" width="42" height="42" src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="42" height="42" src="https://skillicons.dev/icons?i=idea" /></a>
-  <a href="https://www.postman.com/"><img alt="Postman" title="Postman" width="42" height="42" src="https://skillicons.dev/icons?i=postman" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img alt="Go" title="Go" width="42" height="42" src="https://skillicons.dev/icons?i=go" /></a></td>
+    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="TypeScript" title="TypeScript" width="42" height="42" src="https://skillicons.dev/icons?i=ts" /></a></td>
+    <td align="center"><a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img alt="Vue" title="Vue" width="42" height="42" src="https://skillicons.dev/icons?i=vue" /></a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img alt="Bash" title="Bash" width="42" height="42" src="https://skillicons.dev/icons?i=bash" /></a></td>
+    <td align="center"><a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer"><img alt="Linux" title="Linux" width="42" height="42" src="https://skillicons.dev/icons?i=linux" /></a></td>
+    <td align="center"><a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer"><img alt="Arch Linux" title="Arch Linux" width="42" height="42" src="https://skillicons.dev/icons?i=arch" /></a></td>
+    <td align="center"><a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer"><img alt="Ubuntu" title="Ubuntu" width="42" height="42" src="https://skillicons.dev/icons?i=ubuntu" /></a></td>
+    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img alt="Docker" title="Docker" width="42" height="42" src="https://skillicons.dev/icons?i=docker" /></a></td>
+    <td align="center"><a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer"><img alt="Cloudflare" title="Cloudflare" width="42" height="42" src="https://skillicons.dev/icons?i=cloudflare" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img alt="PostgreSQL" title="PostgreSQL" width="42" height="42" src="https://skillicons.dev/icons?i=postgres" /></a></td>
+    <td align="center"><a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img alt="Redis" title="Redis" width="42" height="42" src="https://skillicons.dev/icons?i=redis" /></a></td>
+    <td align="center"><a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer"><img alt="SQLite" title="SQLite" width="42" height="42" src="https://skillicons.dev/icons?i=sqlite" /></a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img alt="Git" title="Git" width="42" height="42" src="https://skillicons.dev/icons?i=git" /></a></td>
+    <td align="center"><a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img alt="GitHub Actions" title="GitHub Actions" width="42" height="42" src="https://skillicons.dev/icons?i=githubactions" /></a></td>
+    <td align="center"><a href="https://sentry.io/" target="_blank" rel="noopener noreferrer"><img alt="Sentry" title="Sentry" width="42" height="42" src="https://skillicons.dev/icons?i=sentry" /></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img alt="Visual Studio Code" title="Visual Studio Code" width="42" height="42" src="https://skillicons.dev/icons?i=vscode" /></a></td>
+    <td align="center"><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="42" height="42" src="https://skillicons.dev/icons?i=idea" /></a></td>
+    <td align="center"><a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img alt="Postman" title="Postman" width="42" height="42" src="https://skillicons.dev/icons?i=postman" /></a></td>
+  </tr>
+</table>
 
 - Languages: Go, TypeScript, SQL, Bash/Shell; working knowledge of C++ and Python.
 - Backend: REST APIs, Gin-based Go services, authentication, user management, billing, invoicing, payment integrations, admin panels, and internal tools.
