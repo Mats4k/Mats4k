@@ -37,6 +37,8 @@ What I usually care about:
   <a href="https://vuejs.org/"><img alt="Vue" title="Vue" width="42" height="42" src="https://skillicons.dev/icons?i=vue" /></a>
   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" width="42" height="42" src="https://skillicons.dev/icons?i=bash" /></a>
   <a href="https://www.kernel.org/"><img alt="Linux" title="Linux" width="42" height="42" src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://archlinux.org/"><img alt="Arch Linux" title="Arch Linux" width="42" height="42" src="https://skillicons.dev/icons?i=arch" /></a>
+  <a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" width="42" height="42" src="https://skillicons.dev/icons?i=ubuntu" /></a>
   <a href="https://www.docker.com/"><img alt="Docker" title="Docker" width="42" height="42" src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://www.cloudflare.com/"><img alt="Cloudflare" title="Cloudflare" width="42" height="42" src="https://skillicons.dev/icons?i=cloudflare" /></a>
   <a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" width="42" height="42" src="https://skillicons.dev/icons?i=postgres" /></a>
@@ -53,7 +55,7 @@ What I usually care about:
 - Languages: Go, TypeScript, SQL, Bash/Shell; working knowledge of C++ and Python.
 - Backend: REST APIs, Gin-based Go services, authentication, user management, billing, invoicing, payment integrations, admin panels, and internal tools.
 - Frontend: Vue for product interfaces, with plain HTML/CSS and UI/UX work where the project needs it.
-- Infrastructure: Linux servers, Docker Compose, Cloudflare, Hetzner, Proxmox, Plesk, game server hosting, networking, firewalls, and VPNs.
+- Infrastructure: Linux servers, especially Arch Linux and Ubuntu, Docker Compose, Cloudflare, Hetzner, Proxmox, Plesk, game server hosting, networking, firewalls, and VPNs.
 - Data and operations: PostgreSQL, Redis, SQLite, S3-compatible object storage, backups, uptime monitoring, Sentry, logging, observability, GitHub Actions, and CI/CD.
 - AI and automation: OpenAI API, Anthropic/Claude, Ollama/local models, multi-provider AI platforms, token/cost tracking, MCP integrations, and AI-assisted engineering workflows.
 - Tools: VS Code, JetBrains IDEs, Cursor, Codex CLI, Claude Code, OpenCode, and Postman/API testing.
