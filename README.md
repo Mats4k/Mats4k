@@ -7,7 +7,7 @@ Founder and CEO of [MTN Media Group](https://www.mtnmedia.group/en), building [M
 [![Website](https://img.shields.io/badge/MTN%20Media%20Group-0d1117?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.mtnmedia.group/en)
 [![MTN AI](https://img.shields.io/badge/MTN%20AI-0969da?style=for-the-badge&logo=openai&logoColor=white)](https://www.mtnmedia.group/en/ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mats-stottmeister)
-[![Email](https://img.shields.io/badge/Email-info%40mtnmedia.group-1f883d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mtnmedia.group)
+[![Email](https://img.shields.io/badge/Email-info%40mtnmedia.group-1f883d?style=for-the-badge)](mailto:info@mtnmedia.group)
 
 </div>
 
@@ -48,19 +48,29 @@ What I usually care about:
 
 ## Stats
 
+Most production work happens in private MTN Media Group repositories, so public GitHub cards only show part of the picture.
+
 <div align="center">
   <img width="100%" alt="Mats4k public GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mats4k&theme=github_dark" />
   <img width="49%" alt="Mats4k public GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mats4k&theme=github_dark" />
   <img width="49%" alt="Mats4k public commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mats4k&theme=github_dark" />
 </div>
 
-<p align="center">
-  <img alt="Measured AI-assistant token usage" src="https://tokscale.ai/api/badge/Mats4k/svg?metric=tokens&compact=1&label=Tokens&color=58a6ff" />
-</p>
-
-GitHub cards only show public repository activity. Most production work happens in private MTN Media Group repositories, so the numbers above are intentionally incomplete.
-
-The token badge is workflow instrumentation. I use AI tools for planning, implementation support, review, and documentation, while keeping architecture, testing, security, and production ownership with the engineer.
+<table>
+  <tr>
+    <th align="left">AI workflow telemetry</th>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img alt="Measured AI-assistant token usage" src="https://tokscale.ai/api/badge/Mats4k/svg?metric=tokens&compact=1&label=Tokens&color=58a6ff" />
+      </p>
+      <p>
+        Local token usage from my AI-assisted engineering workflow across Codex CLI, Claude Code, and OpenCode. I use these tools for planning, implementation support, review, and documentation, while keeping architecture, testing, security, and production ownership with me.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
