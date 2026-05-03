@@ -32,9 +32,22 @@ What I usually care about:
 ## Engineering Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img alt="Go, TypeScript, Vue, Bash, Linux, Docker, Cloudflare, PostgreSQL, Redis, SQLite, Git, GitHub Actions, Sentry, VS Code, JetBrains IDEs and Postman" src="https://skillicons.dev/icons?i=go,ts,vue,bash,linux,docker,cloudflare,postgres,redis,sqlite,git,githubactions,sentry,vscode,idea,postman&perline=8" />
-  </a>
+  <a href="https://go.dev/"><img alt="Go" title="Go" width="42" height="42" src="https://skillicons.dev/icons?i=go" /></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" width="42" height="42" src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://vuejs.org/"><img alt="Vue" title="Vue" width="42" height="42" src="https://skillicons.dev/icons?i=vue" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" width="42" height="42" src="https://skillicons.dev/icons?i=bash" /></a>
+  <a href="https://www.kernel.org/"><img alt="Linux" title="Linux" width="42" height="42" src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://www.docker.com/"><img alt="Docker" title="Docker" width="42" height="42" src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://www.cloudflare.com/"><img alt="Cloudflare" title="Cloudflare" width="42" height="42" src="https://skillicons.dev/icons?i=cloudflare" /></a>
+  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" width="42" height="42" src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://redis.io/"><img alt="Redis" title="Redis" width="42" height="42" src="https://skillicons.dev/icons?i=redis" /></a>
+  <a href="https://www.sqlite.org/"><img alt="SQLite" title="SQLite" width="42" height="42" src="https://skillicons.dev/icons?i=sqlite" /></a>
+  <a href="https://git-scm.com/"><img alt="Git" title="Git" width="42" height="42" src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" width="42" height="42" src="https://skillicons.dev/icons?i=githubactions" /></a>
+  <a href="https://sentry.io/"><img alt="Sentry" title="Sentry" width="42" height="42" src="https://skillicons.dev/icons?i=sentry" /></a>
+  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" title="Visual Studio Code" width="42" height="42" src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="42" height="42" src="https://skillicons.dev/icons?i=idea" /></a>
+  <a href="https://www.postman.com/"><img alt="Postman" title="Postman" width="42" height="42" src="https://skillicons.dev/icons?i=postman" /></a>
 </p>
 
 - Languages: Go, TypeScript, SQL, Bash/Shell; working knowledge of C++ and Python.
